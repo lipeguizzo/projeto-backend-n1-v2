@@ -1,0 +1,11 @@
+
+
+Marcelo Malaguitti - Ataques a sistemas de backend
+
+Um dos ataques mais conhecidos contra sistemas de backend é o **SQL Injection**, onde um invasor insere código malicioso através de campos de entrada, como formulários ou parâmetros de URLs, para manipular diretamente o banco de dados. Um exemplo famoso foi o ataque sofrido pela rede de varejo americana **Target**, que em 2013 resultou na exposição de informações pessoais e financeiras de cerca de 40 milhões de clientes. O impacto nos negócios da empresa foi significativo, incluindo a perda de credibilidade, multas regulatórias e um prejuízo estimado em bilhões de dólares.
+
+A falha de segurança permitiu que os invasores acessassem os sistemas de pagamento e roubassem dados de cartão de crédito, causando enormes danos tanto para a empresa quanto para os consumidores.
+
+Fontes:
+- https://www.csoonline.com/article/2130877/the-top-5-most-dangerous-attack-techniques-in-2020.html
+- https://www.verizon.com/business/resources/reports/dbir/
