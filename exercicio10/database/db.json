@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "983c",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c3af",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": null
+    },
+    {
+      "id": "8d13",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9fea",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": null
+    },
+    {
+      "id": "9ad8",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8f2c",
+      "name": "Pedro",
+      "email": "pedro@gmail.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "983c",
+      "name": "Caneta",
+      "description": "Item que escreve",
+      "price": 2.5,
+      "stock": 8
+    }
+  ],
+  "orders": [
+    {
+      "id": "983c",
+      "user": {
+        "id": "983c",
+        "name": "Pedro",
+        "email": "pedro@gmail.com",
+        "password": "123"
+      },
+      "total": 3
+    }
+  ],
+  "productOrders": [
+    {
+      "id": "983c",
+      "product": {
+        "id": "983c",
+        "name": "Caneta",
+        "description": "Item que escreve",
+        "price": 2.5,
+        "stock": 8
+      },
+      "order": {
+        "id": "983c",
+        "user": {
+          "id": "983c",
+          "name": "Pedro",
+          "email": "pedro@gmail.com",
+          "password": "123"
+        },
+        "total": 3
+      },
+      "amount": 5
+    }
+  ]
+}
